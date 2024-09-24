@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @PaidPopcornRub, welcome on my profile. I'm new to Github and excited to learn new things about it.
 - 👀 I’m interested in Computers
-- 🌱 I’m currently learning GitHub
+- 🌱 I’m currently learning GitHub/Git and Python
